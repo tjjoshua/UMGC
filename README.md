@@ -1,2 +1,2 @@
 # UMGC
-test
+UMGC Github project
